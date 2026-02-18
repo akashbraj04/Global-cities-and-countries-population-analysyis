@@ -46,7 +46,7 @@ FROM cities_clean
 ORDER BY population DESC
 LIMIT 10;
 
-## 📊 Power BI Report
+## Power BI Report
 
 The interactive dashboard file is included in this repository:
 
