@@ -49,19 +49,15 @@ LIMIT 10;
 ##  Dashboard Preview
 
 ### 🌍 Full Dashboard
-![Full Dashboard](Screenshot/GLOBAL - 6.png)
 
 ### 📊 Population Distribution
-![Population Distribution](Screenshot/GLOBAL - 1.png)
 
 ### 🏙 Most Populated Cities
-![Most Populated Cities](Screenshot/GLOBAL - 4.png)
 
 ### 📈 Population vs Life Expectancy
-![Life Expectancy](Screenshot/GLOBAL - 3.png)
 
 ### 🧭 Urbanization Pressure
-![Urbanization Pressure](Screenshot/GLOBAL - 2.png)
+
 
 
 
