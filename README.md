@@ -1,4 +1,4 @@
-#  Global Urbanization and Demographic Intelligence Analysis
+<img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/ea683033-26e7-4746-8ee6-e94ead06b67f" />#  Global Urbanization and Demographic Intelligence Analysis
 
 ##  Project Overview
 An end-to-end data analytics project analyzing global cities and country-level demographic data using MySQL for data processing and Power BI for interactive visualization.
@@ -39,5 +39,22 @@ Raw CSV → MySQL ETL → Clean Tables → Power BI (Direct DB Connection via lo
 
 ##  Dashboard Preview
 
-(Add your Screenshots here in the order we structured earlier)
+## Dashboard Preview
+
+### 🌍 Full Dashboard
+![Full Dashboard](Screenshot/GLOBAL - 6.png)
+
+### 📊 Population Distribution
+![Population Distribution](Screenshot/GLOBAL - 1.png)
+
+### 🏙 Most Populated Cities
+![Most Populated Cities](Screenshot/GLOBAL - 4.png)
+
+### 📈 Population vs Life Expectancy
+![Life Expectancy](Screenshot/GLOBAL - 3.png)
+
+### 🧭 Urbanization Pressure
+![Urbanization Pressure](Screenshot/GLOBAL - 2.png)
+
+
 
