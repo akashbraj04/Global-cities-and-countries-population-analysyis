@@ -1,4 +1,4 @@
-# 🌍 Global Urbanization & Demographic Intelligence Analysis
+# 🌍 Global Urbanization and Demographic Intelligence Analysis
 
 ##  Project Overview
 An end-to-end data analytics project analyzing global cities and country-level demographic data using MySQL for data processing and Power BI for interactive visualization.
